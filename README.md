@@ -27,5 +27,3 @@ You should see *Server running at http://localhost:3000/* as outpout
 3. Hugging Face Inference API
 4. Postman
 
-
-#### Feel free to drop any suggestions and try it out yourself.
